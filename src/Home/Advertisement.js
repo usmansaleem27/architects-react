@@ -1,5 +1,6 @@
 import React from "react";
 import ADVCARD from '../assets/images/ADVCARDS.jpg'
+import Adv_counts from "../share/Adv_counts";
 
 const Advertisement = () => {
   return (
@@ -23,53 +24,18 @@ const Advertisement = () => {
                     <div className="container g-0">
                       <div className="row g-0">
                         <div className="col-lg-3 col-md-4 col-12">
-                          <div className="pt-lg-5 pt-md-3 pt-3 ps-2 pe-2">
-                            <h1 className="text-white our_way pb-3 ">2019</h1>
-                            <div className="cards_custom_circles"></div>
-                            <p className="text-white text-justify pt-lg-5 pt-md-3 pt-3 pb-3">
-                              Podcasting operational change management inside of
-                              workflows to establish a framework. Taking
-                              seamless key performance indicators offline to
-                              maximise the long tail
-                            </p>
-                          </div>
+                          <Adv_counts countA = "2019"/>
                         </div>
                         <div className="col-lg-3 col-md-4 col-12">
-                          <div className="pt-lg-5 pt-md-3 pt-3 ps-2 pe-2">
-                            <h1 className="text-white our_way pb-3 ">2020</h1>
-                            <div className="cards_custom_circles"></div>
-                            <p className="text-white text-justify pt-lg-5 pt-md-3 pt-3 pb-3">
-                              Podcasting operational change management inside of
-                              workflows to establish a framework. Taking
-                              seamless key performance indicators offline to
-                              maximise the long tail
-                            </p>
-                          </div>
+                          <Adv_counts countA = "2020"/>
                         </div>
                         <div className="col-lg-3 col-md-4 col-12">
-                          <div className="pt-lg-5 pt-md-3 pt-3 ps-2 pe-2">
-                            <h1 className="text-white our_way pb-3 ">2021</h1>
-                            <div className="cards_custom_circles"></div>
-                            <p className="text-white text-justify pt-lg-5 pt-md-3 pt-3 pb-3">
-                              Podcasting operational change management inside of
-                              workflows to establish a framework. Taking
-                              seamless key performance indicators offline to
-                              maximise the long tail
-                            </p>
-                          </div>
+                          <Adv_counts countA = "2021"/>
                         </div>
                         <div className="col-lg-3 col-md-4 col-12">
-                          <div className="pt-lg-5 pt-md-3 pt-3 ps-2 pe-2">
-                            <h1 className="text-white our_way pb-3 ">2022</h1>
-                            <div className="cards_custom_circles"></div>
-                            <p className="text-white text-justify pt-lg-5 pt-md-3 pt-3 pb-3">
-                              Podcasting operational change management inside of
-                              workflows to establish a framework. Taking
-                              seamless key performance indicators offline to
-                              maximise the long tail
-                            </p>
-                          </div>
+                          <Adv_counts countA = "2022"/>
                         </div>
+                      
                       </div>
                       <div className="vision_view">
                       <div className="row g-0">

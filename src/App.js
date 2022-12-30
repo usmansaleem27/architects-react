@@ -13,10 +13,11 @@ import EngineerAdv from './Home/EngineerAdv';
 import Benefits from './Home/Benefits';
 import Display from './Home/Display';
 
+
 function App() {
   return (
     <>
-    <Navbar/>
+    <Navbar title = "Architects"/>
     <FrontHome/>
     <AboutUs/>
     <Projectscount/>

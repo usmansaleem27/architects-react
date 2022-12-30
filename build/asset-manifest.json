@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/architects-react/static/css/main.ef998e1f.css",
+    "main.js": "/architects-react/static/js/main.04d775fe.js",
+    "static/js/787.9ce90003.chunk.js": "/architects-react/static/js/787.9ce90003.chunk.js",
+    "static/media/Display_image.jpg": "/architects-react/static/media/Display_image.089654d06120b585cb48.jpg",
+    "static/media/Tractorfactory.jpg": "/architects-react/static/media/Tractorfactory.fc7be16c2a9eee5344d9.jpg",
+    "static/media/Civil-engineers.jpg": "/architects-react/static/media/Civil-engineers.7128f9688700b5a17743.jpg",
+    "static/media/ENGINEER22.PNG": "/architects-react/static/media/ENGINEER22.072ea81388f6990bb67a.PNG",
+    "static/media/ENGINEER11.png": "/architects-react/static/media/ENGINEER11.0e980b64290d9cc654a3.png",
+    "static/media/Manual_img_b.jpg": "/architects-react/static/media/Manual_img_b.6f263f9266a9c30ac12e.jpg",
+    "static/media/Benfits_eng.jpg": "/architects-react/static/media/Benfits_eng.08b2fb073e07446ba16f.jpg",
+    "static/media/ADVCARDS.jpg": "/architects-react/static/media/ADVCARDS.c9218bf90cf4a507e1b9.jpg",
+    "index.html": "/architects-react/index.html",
+    "main.ef998e1f.css.map": "/architects-react/static/css/main.ef998e1f.css.map",
+    "main.04d775fe.js.map": "/architects-react/static/js/main.04d775fe.js.map",
+    "787.9ce90003.chunk.js.map": "/architects-react/static/js/787.9ce90003.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef998e1f.css",
+    "static/js/main.04d775fe.js"
+  ]
+}

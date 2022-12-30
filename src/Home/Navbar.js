@@ -1,12 +1,12 @@
 import React from "react";
 import { BsList } from "react-icons/bs";
-const Nabar = () => {
+const Navbar = (props) => {
   return (
     <>
       <nav className="navbar bg-white pb-lg-2">
         <div className="container-fluid">
           <a className="navbar-brand ps-lg-3 ps-md-2 ps-0 pb-2 pt-lg-2" href="#">
-            Architects
+            {props.title}
           </a>
           <div>
             <i
@@ -48,4 +48,4 @@ const Nabar = () => {
   );
 };
 
-export default Nabar;
+export default Navbar;
