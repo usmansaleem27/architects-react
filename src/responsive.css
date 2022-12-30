@@ -1,0 +1,69 @@
+@media only screen and (max-width:2500px) and (min-width:993px){
+    .about_content p{
+        font-size: 20px;
+    }
+}
+
+
+
+@media only screen and (max-width:576px){    
+    .ideas_h1{
+    font-size: 2.5rem;
+    color: var(--orange);
+  }
+  .front_background h1{
+    font-size: 2.5rem;
+  }
+  .display_card{
+    top: 10px;
+  }
+  .card_display_h{
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+}
+
+@media only screen and (max-width:2560px) and (min-width:1400px){
+  .my_projects{
+    margin-top: 100px;
+  }
+  .eng_adv_img{
+    width: 100%;
+  }
+ 
+}
+
+
+@media only screen and (max-width:1399px) and (min-width:1196px){
+  .my_projects{
+    margin-top: 60px;
+  }
+}
+@media only screen and (max-width:1195px) and (min-width:992px){
+ .vision_img{
+  top: 60%;
+}
+}
+
+@media only screen and (max-width:768px){
+  .display_card{
+    top: 10px;
+  }
+  .card_display_h{
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+}
+
+@media only screen and (max-width:2560px) and (min-width:1800px){
+  .display_card{
+    position: relative;
+    right: -250px;
+  }
+}
+@media only screen and (max-width:1799px) and (min-width:1440px){
+  .display_card{
+    position: relative;
+    right: -100px;
+  }
+}
